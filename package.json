@@ -10,17 +10,17 @@
     "url": "git://github.com/mcavage/node-bunyan-syslog.git"
   },
   "dependencies": {
-    "assert-plus": "0.1.5",
-    "nan": "2.1.x"
+    "assert-plus": "^0.1.5",
+    "nan": "^2.1"
   },
   "devDependencies": {
-    "bunyan": "1.5.x",
-    "tap": "0.6.0"
+    "bunyan": "^1.5",
+    "tap": "^0.6.0"
   },
   "scripts": {
     "test": "tap test"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": "^0.10.0"
   }
 }
